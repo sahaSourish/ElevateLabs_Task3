@@ -1,3 +1,5 @@
+-- SQL Codes
+
 -- Selecting all data from the clubs table
 SELECT * FROM clubs;
 
