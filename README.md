@@ -10,9 +10,7 @@ Use SQL to extract, join, filter, and aggregate data from an ecommerce-style foo
 
 ## Tools Used
 
-- SQL (PostgreSQL / MySQL / SQLite)
-- GitHub for version control and submission
-- Any SQL client for executing and testing queries
+- SQL (MySQL)
 
 ---
 
